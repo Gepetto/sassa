@@ -1,6 +1,6 @@
 # Sassa Quadruped Robot
 
-"Sassa" is an ongoing open-source, open-hardware quadruped robot project, currently in development at LAAS.
+"Sassa" is an ongoing open-source, open-hardware quadruped robot project, currently in development by the Gepetto Team at LAAS.
 
 **Image of the Robot**
 
