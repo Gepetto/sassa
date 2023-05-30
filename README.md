@@ -19,4 +19,4 @@ The robot's central computer, for now, is a Raspberry Pi 4. We use our master bo
 
 The robot's parts have been FDM 3D printed on an Ultimaker S5, using Ultimaker Tough PLA and Ultimaker Breakaway support material.
 
-The mechanical design is done with onshape, a public link to the CAD can be found [here] (https://cad.onshape.com/documents/875a0fc92dced75918d58742/).
+The mechanical design is done with onshape, a public link to the CAD can be found [here](https://cad.onshape.com/documents/875a0fc92dced75918d58742/).
